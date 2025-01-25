@@ -16,7 +16,7 @@ __________________________________________________
 - add your token to config/config.json
 - apt install python3
 - pkg install git
-- git clone https://github.com/zentir0g/fedded-selfbot
+- git clone https://github.com/XSohaib/esak-self-bot
 - cd fedded-selfbot
 - python index.py
 
