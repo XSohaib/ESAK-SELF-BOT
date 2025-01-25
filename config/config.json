@@ -1,6 +1,6 @@
 {
     "token": "PUT YOUR TOKEN HERE",
-    "prefix": "+",
+    "prefix": "!",
 	"sniper_webhook" : ""
 }
 
